@@ -1,6 +1,7 @@
 
   <h3 align="center">Clean Architecture</h3>
-## Technology stack
+  
+## Stack
 
 * Architecture
     - Clean architecture
